@@ -8,3 +8,4 @@ This wiki is public domain, meaning that this wiki is free to be forked, reuploa
 
 Todo: 
   - add images
+  - merge pages
