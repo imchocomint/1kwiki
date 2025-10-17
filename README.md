@@ -1,3 +1,5 @@
+Start reading: https://github.com/imchocomint/1kwiki/wiki
+
 1kwiki
 =======
 A wiki dedicated to the beloved PS Vita 1000. It copies various sites, such as [this site](https://vita.hacks.guide/).
